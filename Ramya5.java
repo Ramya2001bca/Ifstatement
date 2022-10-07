@@ -1,0 +1,15 @@
+public class Ramya5{
+public static void main(String[] args){
+int age1=20;
+int age2=21;
+if(age1>age2){
+System.out.println("hi");
+}
+else if(age1<age2){
+System.out.println("hello");
+}
+else{
+System.out.println("hi hello");
+}
+}
+}
